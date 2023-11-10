@@ -33,7 +33,7 @@ I'm a passionate Dev with a keen interest in data processing. Currently, I'm wor
 ## Fun Facts
 
 - I've been playing drums for [12 years].
-- Favorite programming language (besides Python, of course): Python
+- Favorite programming language : Python
 - Currently reading: Elements of Programming Interviews in Python The Insiders’ Guide
 - Ask me about my latest coding challenge!
 
