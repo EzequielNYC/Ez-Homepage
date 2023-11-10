@@ -22,7 +22,7 @@ I'm a passionate Python Backend Developer and Data Enthusiast with a keen intere
 - 💻 Python Backend Developer
 - 📊 Data Enthusiast
 - 🥁 Drummer/Percussionist (Played with John Legend Timestamp to see me - 3:21 ([https://www.youtube.com/watch?v=your_clip_id](https://www.youtube.com/watch?v=RBuyF-Wbwto&ab_channel=TFAEvents)))
-- 📫 Connect with me on [LinkedIn] ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ezequielesparza/))
+- 📫 Connect with me on LinkedIn ([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ezequielesparza/))
 
 ## Fun Facts
 
