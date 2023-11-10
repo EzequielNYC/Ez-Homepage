@@ -22,7 +22,8 @@ I'm a passionate Dev with a keen interest in data processing. Currently, I'm wor
 
 - 💼 Dev with a passion for building meaningful projects.
 - 📊 Data Enthusiast
-- 🥁 Drummer/Percussionist ([Played with John Legend](https://www.youtube.com/watch?v=RBuyF-Wbwto&ab_channel=TFAEvents) - Timestamp to see me: 3:21)
+- 🥁 Drummer/Percussionist ([Played with John Legend](https://www.youtube.com/watch?v=RBuyF-Wbwto&ab_channel=TFAEvents) - Timestamp to see me: 3:21)     
+                            ([Short Drumming Clip](https://www.youtube.com/shorts/iDCb7UItP9Y))
 - 🎓 Education:
   - Bachelor's Degree in History
     - Favorite Historical Aspect: World Wars and the complexities of international relationships
